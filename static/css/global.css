@@ -1,3 +1,4 @@
+ img { -moz-user-select: none; -webkit-user-select: none; -ms-user-select: none; user-select: none; -webkit-user-drag: none; -webkit-touch-callout: none; }
  ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, div.paragraph, blockquote, fieldset, input { margin: 0; padding: 0; }
  ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, blockquote, fieldset, input { margin: 0; padding: 0; }
  a img { border: 0; }
@@ -64,7 +65,7 @@
  #header-right .wsite-search { vertical-align: middle; margin-left:15px; width:182px; height:28px; background:url(theme/search-bg.gif?1705984156) no-repeat top left; }
  #header-right .wsite-search-input { width: 145px; border: none; padding: 6px !important; color: #999999; font-size: 12px ; background: none; height:auto !important; }
  #header-right .wsite-search-button { position: relative; width: 14px; height: 14px; border: 0px; margin: 7px 0px 0px 5px; padding: ; background: url(theme/search-button.gif?1705984156) no-repeat right center; }
- #nav-wrap .container { clear: both; overflow: hidden; position: relative; border-bottom:1px solid #E8E8E8; margin-bottom:40px; }
+ #nav-wrap .container { clear: both; overflow: hidden; position: relative; margin-bottom:40px; }
  #nav-wrap .container table, #nav-wrap .container table tr, #nav-wrap .container table tr td, #nav-wrap .container table tbody { vertical-align:bottom; }
  td#nav { float:right; }
  #navigation { line-height: 1; float: right; }
