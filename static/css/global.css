@@ -101,7 +101,7 @@
  #main-wrap .paragraph ul li { list-style:none !important; background: url(theme/bullet.png?1705984156) no-repeat 0px 9px; padding-left:20px !important; }
  #main-wrap .paragraph ol { padding-left: 2em !important; }
  #main-wrap .container form .wsite-button { margin-top:10px; }
- #footer-wrap { background-color:#fff; border-top:1px solid #eee; margin-top:25px; }
+ #footer-wrap { margin-top:25px; }
  #footer-wrap .container { text-align:left; padding:30px 0px 38px; text-align:right; }
  #footer-wrap ul { text-align:left; }
  #footer-wrap h2 { font-size: 22px; padding-bottom:10px; margin:0; font-weight: normal; color:#333; }
